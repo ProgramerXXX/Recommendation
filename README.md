@@ -7,3 +7,6 @@ https://github.com/ppontisso/Extreme-Multi-Label-Classification/blob/master/.ipy
 <br /><br />
 Trans4Rec : <br />
 https://github.com/NVIDIA-Merlin/Transformers4Rec
+<br /><br />
+All Paper : <br />
+https://github.com/mengfeizhang820/Paperlist-for-Recommender-Systems/blob/master/README.md
